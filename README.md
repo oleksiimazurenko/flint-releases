@@ -3,7 +3,7 @@
 # Flint — Cloud Cleaner for macOS
 
 **Scan and clean your cloud storage** — iCloud Drive, Google Drive, OneDrive, and Dropbox.
-Find duplicates, large files, and reclaim disk space.
+See what's stored locally, spot the biggest files, and reclaim disk space in one click.
 
 ### [⬇&nbsp; Download for macOS](https://github.com/oleksiimazurenko/flint-releases/releases/latest/download/Flint.dmg)
 
