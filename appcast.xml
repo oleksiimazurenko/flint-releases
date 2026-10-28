@@ -3,12 +3,12 @@
     <channel>
         <title>Flint</title>
         <item>
-            <title>1.37.1</title>
-            <pubDate>Tue, 20 Oct 2026 10:28:00 +0300</pubDate>
-            <sparkle:version>119</sparkle:version>
-            <sparkle:shortVersionString>1.37.1</sparkle:shortVersionString>
+            <title>1.38.0</title>
+            <pubDate>Wed, 28 Oct 2026 17:08:24 +0200</pubDate>
+            <sparkle:version>162</sparkle:version>
+            <sparkle:shortVersionString>1.38.0</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-            <enclosure url="https://github.com/oleksiimazurenko/flint-releases/releases/latest/download/Flint.dmg" length="5125601" type="application/octet-stream" sparkle:edSignature="WDcGvInSipZs//xYJ6NXZxnZOG3HIz5DmOtmx6JCnCdAXnbZkp8MirS1s341x25+9feom//Jd7KJnZMDf49qCQ=="/>
+            <enclosure url="https://github.com/oleksiimazurenko/flint-releases/releases/latest/download/Flint.dmg" length="5810769" type="application/octet-stream" sparkle:edSignature="ZVJAVJnh0Dj0rk6Midx3leN46Dn+LMr+msH0+OjUwf30IPVSBkmkFkK5ywuG6mH/6S3MFGFOjAsNOoa5+tghCA=="/>
         </item>
     </channel>
 </rss>
